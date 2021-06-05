@@ -1,4 +1,14 @@
 {
   "deckName": "Moonlight Sonata Deck",
-  "deckType": "Piece Practice"
+  "deckType": "Piece Practice",
+  "cards": [
+    {
+      "cardInstruction": "Bars 0-10",
+      "studyHistory": []
+    },
+    {
+      "cardInstruction": "Bars 11-20",
+      "studyHistory": []
+    }
+  ]
 }
