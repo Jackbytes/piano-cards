@@ -1,7 +1,7 @@
 const OnShowInfo = () => {
   return (
     <div>
-      <h1>Info Place Holder.</h1>
+      <h1 className="text-center md:text-left">Info Place Holder.</h1>
     </div>
   );
 };
