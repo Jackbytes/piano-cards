@@ -4,8 +4,10 @@ let testDeck = require("./test_deck.json");
 
 function App() {
   return (
-    <div className="flex flex-col items-center w-1/3 h-screen mx-auto place-content-center">
-      <OnShowCard deckData={testDeck} />
+    <div className="piano-background">
+      <div className="flex flex-col items-center w-1/3 h-screen mx-auto place-content-center">
+        <OnShowCard deckData={testDeck} />
+      </div>
     </div>
   );
 }
