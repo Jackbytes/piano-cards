@@ -1,6 +1,6 @@
 import "./Components/OnShowCard/OnShowCard";
 import OnShowCard from "./Components/OnShowCard/OnShowCard";
-let testDeck = require("./test_deck.json");
+let testDeck = require("./Data/Deck1.json");
 
 function App() {
   return (
