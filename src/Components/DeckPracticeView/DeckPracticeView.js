@@ -3,8 +3,8 @@ import CardInfo from "./CardInfo/CardInfo";
 
 const DeckPracticeView = (props) => {
   return (
-    <div className="grid w-full max-w-lg grid-rows-3 border-2 border-pink-300 h-1/6 up-and-fade box-shadow-black">
-      <div className="row-start-1 row-end-2 bg-white border-b-4 border-pink-300">
+    <div className="grid w-full max-w-lg grid-rows-3 border-2 border-pink-400 h-1/6 up-and-fade box-shadow-black">
+      <div className="row-start-1 row-end-2 bg-white border-b-2 border-pink-400">
         <DeckInfo mainTitle={props.deckName} subTitle={props.deckType} />
       </div>
       <div className="w-full row-start-2 row-end-4 bg-pink-100">
