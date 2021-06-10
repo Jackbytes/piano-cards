@@ -18,7 +18,7 @@ code {
 }
 
 .up-and-fade {
-  animation: upandfade 1.3s;
+  animation: upandfade 1s;
 }
 
 @keyframes upandfade {
@@ -32,14 +32,12 @@ code {
   }
 }
 
-.fancy-type {
-  font-family: "Bodoni Moda", serif;
-}
-
-.serious-type {
-  font-family: "Montserrat Alternates", sans-serif;
-}
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  .box-shadow-black {
+    box-shadow: 7px 7px 0px 0px #000000;
+  }
+}
