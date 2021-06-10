@@ -21,10 +21,25 @@ code {
   animation: upandfade 1s;
 }
 
+.left-and-fade {
+  animation: leftandfade 1s;
+}
+
 @keyframes upandfade {
   0% {
     opacity: 0;
     transform: translateY(50px);
+  }
+  100% {
+    opacity: 100;
+    transform: translateY(0px);
+  }
+}
+
+@keyframes leftandfade {
+  0% {
+    opacity: 0;
+    transform: translateX(-300px);
   }
   100% {
     opacity: 100;
