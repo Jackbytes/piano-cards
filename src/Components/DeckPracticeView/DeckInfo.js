@@ -1,4 +1,4 @@
-const OnShowTitle = (props) => {
+const DeckInfo = (props) => {
   return (
     <div className="flex flex-col p-10 place-items-center place-content-around">
       <h1 className="text-xl italic text-center fancy-type md:text-3xl">
@@ -11,4 +11,4 @@ const OnShowTitle = (props) => {
   );
 };
 
-export default OnShowTitle;
+export default DeckInfo;

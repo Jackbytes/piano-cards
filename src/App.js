@@ -1,5 +1,5 @@
-import "./Components/OnShowCard/OnShowCard";
-import OnShowCard from "./Components/OnShowCard/OnShowCard";
+import "./Components/OnShowCard/CurrentCard";
+import OnShowCard from "./Components/OnShowCard/CurrentCard";
 let testDeck = require("./Data/Deck1.json");
 
 function App() {
