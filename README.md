@@ -8,7 +8,9 @@ A react app to help learn piano via a flash card system. This app is currently i
 
 Currently the app is being developed using Storybook, and so currently is just a collection of components. To run the current state:
 
-`yarn install yarn run storybook`
+`yarn install`
+
+`yarn run storybook`
 
 ## Aims.
 
