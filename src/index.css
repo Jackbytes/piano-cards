@@ -52,7 +52,13 @@ code {
 @tailwind utilities;
 
 @layer utilities {
-  .box-shadow-black {
-    box-shadow: 7px 7px 0px 0px #000000;
+  @variants active {
+    .box-shadow-black {
+      box-shadow: 7px 7px 0px 0px #000000;
+    }
+    .brutal-click {
+      box-shadow: none;
+      transform: translateY(5px) translateX(5px);
+    }
   }
 }
