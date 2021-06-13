@@ -2,7 +2,13 @@
 
 ## About.
 
-A react app to help learn piano via a flash card system. This app is currently in very early devolpement.
+A react app to help learn piano via a flash card system. This app is currently in very early development. The app uses CRA and TailwindCSS.
+
+## How To
+
+Currently the app is being developed using Storybook, and so currently is just a collection of components. To run the current state:
+
+`yarn install yarn run storybook`
 
 ## Aims.
 
