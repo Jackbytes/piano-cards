@@ -58,6 +58,12 @@
         "history": [],
         "maturity": 0,
         "difficulty": 5
+      },
+      {
+        "title": "Bars 41-50",
+        "history": [],
+        "maturity": 0,
+        "difficulty": 5
       }
     ]
   }
