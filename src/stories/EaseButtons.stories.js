@@ -3,7 +3,7 @@ import EaseButtons from "../Components/DeckPracticeView/CardInfo/EaseButtons";
 import "../index.css";
 
 export default {
-  title: "Small Components / Ease Buttons",
+  title: "Small Components / Buttons",
   component: EaseButtons,
 };
 

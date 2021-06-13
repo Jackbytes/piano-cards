@@ -3,7 +3,7 @@ import DeckPracticeView from "../Components/DeckPracticeView/DeckPracticeView";
 import "../index.css";
 
 export default {
-  title: "Revision Mode / Current Card",
+  title: "Revision Mode / Card",
   component: DeckPracticeView,
 };
 

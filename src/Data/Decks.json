@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Moonlight Sonata Mvt 1",
+    "type": "piece practice",
+    "deck difficulty": 3,
+    "cards": [
+      {
+        "title": "Bars 1-10",
+        "history": [],
+        "maturity": 0,
+        "difficulty": 5
+      },
+      {
+        "title": "Bars 11-20",
+        "history": [],
+        "maturity": 0,
+        "difficulty": 5
+      },
+      {
+        "title": "Bars 21-30",
+        "history": [],
+        "maturity": 0,
+        "difficulty": 5
+      },
+      {
+        "title": "Bars 31-40",
+        "history": [],
+        "maturity": 0,
+        "difficulty": 5
+      }
+    ]
+  },
+  {
+    "title": "Moonlight Sonata Mvt 3",
+    "type": "piece practice",
+    "deck difficulty": 7,
+    "cards": [
+      {
+        "title": "Bars 1-10",
+        "history": [],
+        "maturity": 0,
+        "difficulty": 5
+      },
+      {
+        "title": "Bars 11-20",
+        "history": [],
+        "maturity": 0,
+        "difficulty": 5
+      },
+      {
+        "title": "Bars 21-30",
+        "history": [],
+        "maturity": 0,
+        "difficulty": 5
+      },
+      {
+        "title": "Bars 31-40",
+        "history": [],
+        "maturity": 0,
+        "difficulty": 5
+      }
+    ]
+  }
+]
